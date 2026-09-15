@@ -1,0 +1,6 @@
+# 安全白名单：此仓库只跟踪公开发布说明，安装程序只作为 Release 附件上传。
+*
+!.gitignore
+!README.md
+!SHA256SUMS.txt
+!WB Analyzer_软件许可与用户协议.md
